@@ -8,6 +8,11 @@ body {
     text-align: center;   
 }
 
+.heading{
+    color: #FFDD4A;
+    font-size: 45px;
+}
+
 .container {
     height: 70vh;
     justify-content: center;
@@ -40,7 +45,26 @@ body {
 .reset {
     padding: 1rem;
     font-size: 1.25rem;
-    color: white;
-   border-radius: 2.5rem;
+    color: rgb(8, 2, 16);
+   border-radius: 1.5rem;
     border: none;
+   
+}
+
+.new-game {
+    padding: 1rem;
+    font-size: 1.25rem;
+    color: rgb(8, 2, 16);
+    border-radius: 1.5rem;
+    border: none;
+}
+
+.msg-container {
+    color: azure;
+    height: 13vmin;
+    font-size: 60px;
+}
+
+.hide {
+    display: none;
 }
