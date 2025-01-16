@@ -36,7 +36,7 @@ will be uploaded soon
 🏗️ Installation
 1. Clone this repository:
 
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone 
 
 2. Open index.html in your browser.
 
